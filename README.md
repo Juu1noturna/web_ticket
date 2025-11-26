@@ -14,6 +14,20 @@ Esta senha é destinada a gestantes, idosos, pessoas com deficiência, pessoas c
 Após retirar sua senha, aguarde ser chamado no painel ou pelo atendente.
 Estamos à disposição para ajudar!
 
+Para organizar melhor o fluxo e agilizar seu atendimento, utilize nosso sistema de tickets.
+Ao retirar sua senha, informe seu nome completo e selecione o tipo de atendimento desejado:
+
+* SG – Senha Geral
+Atendimentos comuns, como informações, agendamentos e serviços gerais.
+⏱ Tempo estimado de espera: 15 minutos
+
+* SE – Senha de Exames
+Para retirada de exames, entrega de documentos ou conferência de resultados.
+⏱ Tempo estimado de espera: 10 minutos
+
+* SP – Senha Prioritária
+Destinada a gestantes, idosos, pessoas com deficiência, lactantes, pessoas com crianças de colo e demais prioridades por lei.
+⏱ Tempo estimado de espera: 5 minutos
 
 <!doctype html>
 <html lang="pt-BR">
