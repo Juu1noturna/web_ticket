@@ -51,16 +51,18 @@ Previsão aproximada de atendimento:
 
 # O cliente também pede que seja emitido relatório
 diário e mensal, contendo:
- Quantitativo geral das senhas emitidas.
- Quantitativo geral das senhas atendidas.
- Quantitativo das senhas emitidas, por prioridade.
- Quantitativo das senhas atendidas, por prioridade.
- Relatório detalhado das senhas contendo, numeração,
+Quantitativo geral das senhas emitidas.
+Quantitativo geral das senhas atendidas.
+Quantitativo das senhas emitidas, por prioridade.
+Quantitativo das senhas atendidas, por prioridade.
+Relatório detalhado das senhas contendo, numeração,
 tipo de senha, data e hora da emissão e data e hora do
 atendimento, guichê responsável pelo SA, caso não tenha
 sido atendida estes últimos campos ficarão em branco.
- Relatório do TM, que devido à variação aleatória no
+Relatório do TM, que devido à variação aleatória no
 atendimento poderá mudar.
+
+
 
 <!DOCTYPE HTML>
 <html lang="pt-BR">
