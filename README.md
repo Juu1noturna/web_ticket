@@ -29,7 +29,40 @@ Para retirada de exames, entrega de documentos ou conferência de resultados.
 Destinada a gestantes, idosos, pessoas com deficiência, lactantes, pessoas com crianças de colo e demais prioridades por lei.
 ⏱ Tempo estimado de espera: 5 minutos
 
-<!doctype html>
+ # Modelo de Ficha de Atendimento (Gerada automaticamente)
+
+FICHA DE ATENDIMENTO
+Nome: __________
+Tipo de Atendimento: ____ (SG / SE / SP)
+Número da Senha: _____
+
+📅 Data: //__
+⏰ Hora da Emissão: :
+
+⏱ Tempo Estimado para Atendimento:
+
+SG – Senha Geral: 15 minutos
+
+SE – Retirada de Exames: 10 minutos
+
+SP – Prioritária: 5 minutos
+
+Previsão aproximada de atendimento: 
+
+# O cliente também pede que seja emitido relatório
+diário e mensal, contendo:
+ Quantitativo geral das senhas emitidas.
+ Quantitativo geral das senhas atendidas.
+ Quantitativo das senhas emitidas, por prioridade.
+ Quantitativo das senhas atendidas, por prioridade.
+ Relatório detalhado das senhas contendo, numeração,
+tipo de senha, data e hora da emissão e data e hora do
+atendimento, guichê responsável pelo SA, caso não tenha
+sido atendida estes últimos campos ficarão em branco.
+ Relatório do TM, que devido à variação aleatória no
+atendimento poderá mudar.
+
+<!DOCTYPE HTML>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
