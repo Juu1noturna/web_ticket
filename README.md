@@ -1,4 +1,19 @@
 # web_ticket
+Para garantir um atendimento organizado e ágil, utilize nosso sistema de tickets.
+Ao retirar sua senha, informe seu nome completo e selecione o tipo de atendimento que você precisa:
+
+* SG – Senha Geral
+Utilize esta opção para atendimentos comuns, como informações, agendamentos e serviços gerais.
+
+* SE – Senha para Exames
+Escolha esta senha caso você esteja aqui para retirada de exames ou entrega de documentos relacionados.
+
+* SP – Senha Prioritária
+Esta senha é destinada a gestantes, idosos, pessoas com deficiência, pessoas com crianças de colo e demais atendimentos prioritários por lei.
+
+Após retirar sua senha, aguarde ser chamado no painel ou pelo atendente.
+Estamos à disposição para ajudar!
+
 
 <!doctype html>
 <html lang="pt-BR">
